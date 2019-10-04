@@ -9,7 +9,7 @@ This program takes all your grades and calculates your total weighted grade. */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Assign1 {
+public class gradeCalculator {
 
 	public static void main(String[] args) {
 	
